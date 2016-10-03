@@ -1,4 +1,9 @@
 # PingPong
+ping1
+ping2
+ping4
+ping5
+ping6]
 bo Will Win
 png2
 png2
